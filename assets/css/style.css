@@ -28,7 +28,7 @@ h3 {
     color: var(--highlight-color);
 }
 
-/* grid visualuisation CSS for testing */
+/* grid visualuisation CSS for testing 
 
 .container,
 .row {
@@ -39,4 +39,5 @@ h3 {
     border: 2px solid white;
     background-color: lightgray;
 }
+    */
     
